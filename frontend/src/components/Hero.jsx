@@ -141,7 +141,7 @@ const Hero = () => {
           Loved by India's famous startups and world renowned brands
         </h2>
 
-        <div className="flex flex-wrap items-center justify-center gap-8 px-4">
+        <div className="flex flex-wrap items-center justify-center gap-30 px-6">
           {/* BigHost */}
           <a
             href="https://www.bighostindia.in/"
@@ -152,8 +152,8 @@ const Hero = () => {
           >
             <img
               src="/logos/brand_one.png"
-              alt="Zepto Logo"
-              className="w-32 h-auto max-h-20 object-contain"
+              alt="BigHost Logo"
+              className="w-40 h-auto max-h-28 object-contain"
             />
           </a>
 
@@ -168,7 +168,7 @@ const Hero = () => {
             <img
               src="/logos/brand_two.png
               "
-              alt="Blinkit Logo"
+              alt="Zepto Logo"
               className="w-32 h-auto max-h-20 object-contain"
             />
           </a>
@@ -198,7 +198,7 @@ const Hero = () => {
           >
             <img
               src="/logos/brand_four.png"
-              alt="Meesho Logo"
+              alt="Zomato Logo"
               className="w-32 h-auto max-h-20 object-contain"
             />
           </a>
